@@ -12,7 +12,7 @@ With experience since 2020 across data science, big data and AI engineering, I l
 - 🎓 Bachelor's in Computer Engineering: [UFG](https://www.ufg.br/)
 - 🇧🇷 Currently based in Brazil
 - 🌍 International experience: France (Société Générale, Lab-STICC/IMT Atlantique)
-- 📈 Results-driven: 72% workload reduction [Connect AI](https://connectai.net.br/), €80k/month profit uplift [Société Générale](https://www.societegenerale.com/en), R$10M in savings [TCU](https://portal.tcu.gov.br/)
+- 📈 Results-driven: 72% workload reduction ([Connect AI](https://connectai.net.br/)), €80k/month profit uplift [Société Générale](https://www.societegenerale.com/en), R$10M in savings [TCU](https://portal.tcu.gov.br/)
 - 🌐 Languages (fluent): Portuguese, English & French
 
 ---
