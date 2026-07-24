@@ -20,12 +20,15 @@ With experience since 2020 across data science, big data and AI engineering, I l
 
 ## Stack
 **Data Science & IA**
+
 [![Data Science](https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv&theme=dark&perline=4)](https://skillicons.dev)
 
 **Dados & Backend**
+
 [![Dados](https://skillicons.dev/icons?i=postgres,docker,aws,linux&theme=dark&perline=2)](https://skillicons.dev)
 
 **Ferramentas**
+
 [![Ferramentas](https://skillicons.dev/icons?i=git,github&theme=dark&perline=2)](https://skillicons.dev)
 
 
