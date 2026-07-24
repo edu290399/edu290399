@@ -23,7 +23,7 @@ With experience since 2020 across data science, big data and AI engineering, I l
 
 [![Data Science](https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv&theme=dark&perline=4)](https://skillicons.dev)
 
-**Dados & Backend**
+**Data & Backend**
 
 [![Dados](https://skillicons.dev/icons?i=postgres,docker,aws,linux,gcp,git,github&theme=dark&perline=7)](https://skillicons.dev)
 
