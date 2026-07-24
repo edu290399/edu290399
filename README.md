@@ -25,7 +25,7 @@ With experience since 2020 across data science, big data and AI engineering, I l
 
 **Dados & Backend**
 
-[![Dados](https://skillicons.dev/icons?i=postgres,docker,aws,linux,gcp,git,github&theme=dark&perline=6)](https://skillicons.dev)
+[![Dados](https://skillicons.dev/icons?i=postgres,docker,aws,linux,gcp,git,github&theme=dark&perline=7)](https://skillicons.dev)
 
 ## Connect
 
