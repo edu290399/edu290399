@@ -1,4 +1,11 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8CF72C&center=true&vCenter=true&width=435&lines=Hi!+I'm+Eduardo%F0%9F%A4%97%E2%80%8B)](https://git.io/typing-svg)
+
+</div>
+
+## About Me
+
 
 ### 🛠️ Languages & Tools
 
